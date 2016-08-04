@@ -1,0 +1,62 @@
+_repo: Four-Arthurian-Romances_831
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Comfort, William Wistar
+    alias: Comfort, W. W. (William Wistar)
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '436'
+    url: http://www.gutenberg.org/2009/agents/436
+creator:
+  author:
+    agent_name: Chrétien, de Troyes, active 12th century
+    aliases:
+    - Troyes, Chrétien de
+    - Chretien, de Troyes, active 12th century
+    - De Troyes, Chrétien
+    gutenberg_agent_id: '435'
+    url: http://www.gutenberg.org/2009/agents/435
+    wikipedia: http://en.wikipedia.org/wiki/Chr%C3%A9tien_de_Troyes
+description: "Yvain, the Knight of the Lion (French: Yvain ou le Chevalier au Lion)\
+  \ is an Arthurian romance by French poet Chrétien de Troyes. It was probably written\
+  \ in the 1170s simultaneously with Lancelot, the Knight of the Cart, and includes\
+  \ several references to the narrative of that poem.\nIt is a story of knight-errantry,\
+  \ in which the protagonist Yvain is first rejected by his lady for breaking a promise,\
+  \ and subsequently performs a number of heroic deeds in order to regain her favor.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Fantasy
+- Arthurian Legends
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '831'
+  wikidata: Q1928169
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales, Medieval'
+- !lcsh 'Arthurian romances'
+- !lcsh 'Romances -- Translations into English'
+- !lcsh 'Chrétien, de Troyes, active 12th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Erec et Enide -- Cliges -- Yvain -- Lancelot
+title: Four Arthurian Romances
+url: http://www.gutenberg.org/ebooks/831
+wikipedia:
+- https://fr.wikipedia.org/wiki/Yvain_ou_le_Chevalier_au_lion
+- https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%81%BE%E3%81%9F%E3%81%AF%E7%8D%85%E5%AD%90%E3%81%AE%E9%A8%8E%E5%A3%AB
+- https://pt.wikipedia.org/wiki/Ivain,_o_Cavaleiro_do_Le%C3%A3o
+- https://pl.wikipedia.org/wiki/Iwajn_czyli_rycerz_z_lwem
+- https://de.wikipedia.org/wiki/Yvain_ou_Le_Chevalier_au_lion
+- https://als.wikipedia.org/wiki/Yvain_ou_Le_Chevalier_au_lion
+- https://es.wikipedia.org/wiki/Yvain,_el_Caballero_del_Le%C3%B3n
+- https://en.wikipedia.org/wiki/Yvain,_the_Knight_of_the_Lion
+- https://it.wikipedia.org/wiki/Yvain_il_cavaliere_del_leone
+- https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D1%8D%D0%B9%D0%BD,_%D0%B8%D0%BB%D0%B8_%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%8C_%D1%81%D0%BE_%D0%BB%D1%8C%D0%B2%D0%BE%D0%BC
+- https://ca.wikipedia.org/wiki/El_cavaller_del_lle%C3%B3
+- https://gl.wikipedia.org/wiki/Yvain,_o_Cabaleiro_do_Le%C3%B3n
